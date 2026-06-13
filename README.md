@@ -1,14 +1,3 @@
-# 🔍 httpry-http-traffic-monitor
-
-> Passive and live HTTP traffic monitoring with Httpry on Kali Linux — pcap analysis, log file generation, and Common Log Format conversion using a custom Perl script.
-
-[![Dev.to Article](https://img.shields.io/badge/Dev.to-Read%20Article-black?logo=devdotto)](https://dev.to/almahmudkhalif/lab-task-11-monitoring-http-traffic-with-httpry-on-kali-linux-passive-capture-live-monitoring-3f83)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/almahmudkhalif/)
-
----
-
-## 📌 Overview
-
 Full packet capture tools like Wireshark and tcpdump record everything — which is often more than you need. When the question is purely about HTTP activity, **Httpry** gives you exactly what matters: hostnames, URLs, HTTP methods, status codes, and timestamps. Nothing more, nothing less.
 
 This project walks through the complete Httpry workflow:
